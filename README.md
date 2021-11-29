@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Bowon%20Kim&fontSize=90" />
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Bowon%20Kim&fontSize=90" /></p>
 
 
 <h3 align="center"><b>🛠 SKILLS 🛠</b></h3>
